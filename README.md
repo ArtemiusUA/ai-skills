@@ -7,4 +7,5 @@ A collection of reusable skill definitions for AI coding assistants. Each skill 
 | Skill | Description |
 |-------|-------------|
 | [fastapi-project](./fastapi-project/SKILL.md) | Scaffold and develop FastAPI web APIs with async SQLAlchemy, layered architecture, and full test suite |
+| [django-project](./django-project/SKILL.md) | Develop Django applications with layered architecture (models/services/selectors/views), DRF, and full test suite |
 | [sqitch-migrations](./sqitch-migrations/SKILL.md) | Manage database schema changes with Sqitch across multiple engines (PostgreSQL, SQLite, MySQL, etc.) |
